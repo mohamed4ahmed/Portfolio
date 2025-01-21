@@ -46,7 +46,7 @@ const Information = () => {
 
         <div className="information">
           <img src={avatar} alt="avatar" />
-          <h2>Mohamed Ahmed </h2>
+          <h2>Salah Ragab </h2>
 
           <div className="social">
             <Link to="/portfolio">
@@ -90,7 +90,7 @@ const Information = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="mailto:mohamed.ahmed8412000@gmail.com"
+              href="mailto:engsalah@aitcosa.com"
             >
               <div className="icon">
                 <img
@@ -107,7 +107,7 @@ const Information = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="tel:+966510264961"
+              href="tel:+966540619187"
             >
               <div className="icon">
                 <img
@@ -124,7 +124,7 @@ const Information = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="https://www.linkedin.com/in/mohamed-ahmed-719757160"
+              href="https://www.linkedin.com/in/salah-ragab-07ba84240/"
             >
               <div className="icon">
                 <img
@@ -136,12 +136,12 @@ const Information = () => {
               <div className=""></div>
             </a>
           </div>
-{/* 
+
           <div className="social">
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="https://www.facebook.com/maabdelsalam2"
+              href="https://www.facebook.com/profile.php?id=100000594597316"
             >
               <div className="icon">
                 <img
@@ -158,7 +158,7 @@ const Information = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="https://www.instagram.com/mohamed.ahmed.14"
+              href="https://www.instagram.com/aitcosa?igsh===MWpsZhttps://www.instagram.com/aitcosa?igsh=MWpsZ2lhODU5YWRteQ=="
             >
               <div className="icon">
                 <img
@@ -169,10 +169,10 @@ const Information = () => {
               <p>Instagram</p>
               <div className=""></div>
             </a>
-          </div> */}
+          </div>
 
           <div className="social">
-            <a href="whatsapp://send?text=welcome-let-your-messange&phone=+966510264961">
+            <a href="whatsapp://send?text=welcome-let-your-messange&phone=+966540619187">
               <div className="icon">
                 <img
                   src="https://img.icons8.com/clouds/100/000000/whatsapp.png"

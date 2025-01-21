@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mohamed4ahmed.github.io/portfolio",
-  "name": "portfolio",
+  "homepage":"https://github.com/mohamed4ahmed/salahragab",
+  "name": "salahragab",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,6 +25,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+   
   },
   "eslintConfig": {
     "extends": [
